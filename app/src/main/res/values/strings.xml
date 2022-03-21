@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alarm</string>
+    <string name="start_timer">Set alarm</string>
+    <string name="tvTTWU">Time to wake up</string>
+</resources>
